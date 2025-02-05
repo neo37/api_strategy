@@ -1,3 +1,4 @@
+# **How ​​to Combine REST, GraphQL, and Jinja2 for a Real Estate Analytics Website**
 # **Как совместить REST, GraphQL и Jinja2 для аналитического сайта по недвижимости**  
 ## api_strategy
 ### py backend with dynamic API request routing, where REST, GraphQL or template rendering (Jinja2) is automatically selected depending on the request type and client needs.
